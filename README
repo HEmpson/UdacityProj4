@@ -1,0 +1,5 @@
+# Evaluate a news article with Natural Language Processing
+
+## Overview
+This project calls a language processing api and updates the front end UI. This project utilises webpack and can be started in dev mode with 'npm build-dev', it can 
+also be started in prod mode by running 'npm build-prod' and then 'npm-start'. This project also utilises jest for testing purposes and can be started with 'npm test'
